@@ -1,6 +1,7 @@
 body {
   background: url(https://p4.wallpaperbetter.com/wallpaper/859/725/178/painting-salvador-dali-surreal-classic-art-wallpaper-preview.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   font-family: sans-serif;
 }
 h1 {
