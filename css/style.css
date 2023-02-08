@@ -2,7 +2,7 @@ body {
   background: url(https://p4.wallpaperbetter.com/wallpaper/859/725/178/painting-salvador-dali-surreal-classic-art-wallpaper-preview.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: sans-serif;
+  font-family: "Aboreto", cursive;
 }
 h1 {
   text-align: center;
@@ -55,5 +55,5 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: white(0, 0, 0, 0.6);
+  color: white;
 }
