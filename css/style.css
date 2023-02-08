@@ -33,6 +33,7 @@ select {
 .city {
   display: flex;
   margin: 10px 0;
+  font-weight: 500px;
   justify-content: space-between;
   padding: 30px 0;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
@@ -51,6 +52,9 @@ select {
   font-size: 24px;
   vertical-align: middle;
   line-height: 36px;
+}
+a {
+  color: #98b6a6;
 }
 footer {
   text-align: center;
