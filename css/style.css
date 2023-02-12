@@ -52,7 +52,11 @@ select {
   line-height: 36px;
 }
 a {
-  color: #476c77;
+  color: #527c88;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 footer {
   text-align: center;
