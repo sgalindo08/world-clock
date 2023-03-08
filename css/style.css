@@ -52,9 +52,8 @@ select {
   line-height: 36px;
 }
 a {
- color: #527c88;
+  color: rgb(226, 173, 73);
   text-decoration: none;
-  text-shadow: white 1px 0 10px;
   font-weight: bold;
 }
 a:hover {
